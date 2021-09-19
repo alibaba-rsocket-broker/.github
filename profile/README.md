@@ -1,6 +1,6 @@
 ## Hey, this is Alibaba RSocket Broker 👋
 
-![Alibaba RSocket Broker](https://github.com/alibaba/alibaba-rsocket-broker/wiki/img/logo.png)
+![Alibaba RSocket Broker](https://github.com/alibaba-rsocket-broker/.github/blob/master/profile/alibaba-rsocket-broker-architecture.png?raw=true)
 
 该Github组织主要是围绕Alibaba RSocket Broker项目涉及到的周边项目、样例、文档站点和相关创意想法。
 
